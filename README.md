@@ -244,8 +244,6 @@ void Menngurut_nilai_terbesar()
 void Program_kasir()
 {
 
-
-    cout<< "|              Muhamad Amirul Fiqhi                   |"<<endl;
     cout<< "|-----------------------------------------------------|"<<endl;
     cout<< "|Tugas Praktikum4"<< "Program Menghitung Total Belanja     |"<< endl;
     cout<< "|-----------------------------------------------------|" <<endl;
